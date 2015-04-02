@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "month": "January",
+    "values": 30
+  },
+  {
+    "id": 2,
+    "month": "February",
+    "values": 40
+  },
+  {
+    "id": 3,
+    "month": "March",
+    "values": 80
+  },
+  {
+    "id": 4,
+    "month": "April",
+    "values": 100
+  },
+  {
+    "id": 5,
+    "month": "May",
+    "values": 20
+  },
+  {
+    "id": 6,
+    "month": "June",
+    "values": 45
+  },
+  {
+    "id": 7,
+    "month": "July",
+    "values": 15
+  },
+  {
+    "id": 8,
+    "month": "August",
+    "values": 33
+  },
+  {
+    "id": 9,
+    "month": "September",
+    "values": 54
+  },
+  {
+    "id": 10,
+    "month": "October",
+    "values": 53
+  },
+  {
+    "id": 11,
+    "month": "November",
+    "values": 32
+  },
+  {
+    "id": 12,
+    "month": "December",
+    "values": 54
+  }
+]
